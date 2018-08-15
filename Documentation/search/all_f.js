@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['send',['send',['../class_board_square.html#a7c42d043abd243c600a3ae6553a2f876',1,'BoardSquare']]],
+  ['sendmessage',['sendMessage',['../class_network.html#afefd43a89c1704c2ab0d98d59155238d',1,'Network']]],
+  ['sendquit',['sendquit',['../class_board_square.html#a6b448372267b8058c9189d79a319855a',1,'BoardSquare']]],
+  ['server',['server',['../classcontroller.html#a196afefaebd8e81a00d7576f53f79a70',1,'controller']]],
+  ['serverclicked',['serverClicked',['../class_start_window.html#a7452212ba2feb1d48de73fd4c09980ac',1,'StartWindow']]],
+  ['setsocket',['setSocket',['../class_network.html#ae762d935ef60c6fc35b32ae694ade592',1,'Network']]],
+  ['shipsetdone',['ShipSetDone',['../classgame.html#a617ceb869a7bb7ca43d02b976192026b',1,'game']]],
+  ['shipsetnotdone',['ShipSetNotDone',['../classgame.html#a226f6f09b34755b7dcc0e5ad65aa230a',1,'game']]],
+  ['shipsetting',['shipsetting',['../class_board_square.html#a8a6af3ad6ea719662ed88ad66f5bf0d1',1,'BoardSquare']]],
+  ['shoot',['Shoot',['../classgame.html#a89dd304e250af6502c28fed7747328b3',1,'game']]],
+  ['sigfalse',['sigFALSE',['../classcontroller.html#a14c13ed6f1fbd57eea1ae7c2ad4cfa4c',1,'controller']]],
+  ['signalchattonetwork',['signalChatToNetwork',['../class_board_square.html#a23271ea06f6d0a2985ffbc72819c33c0',1,'BoardSquare']]],
+  ['sigparam',['sigParam',['../class_network.html#aefd2fcf8e69ad70c2424ba6c900d14f2',1,'Network']]],
+  ['socketstatechanged',['socketStateChanged',['../class_network.html#a8e773151fdf17475b042157a6f36a27c',1,'Network']]],
+  ['startgame',['startgame',['../class_board_square.html#a836997e4088faf3da458597321f4399d',1,'BoardSquare']]],
+  ['startgamebtn',['startgamebtn',['../class_board_square.html#afa9878df21f8f5ea39720ac6c09621ab',1,'BoardSquare']]],
+  ['startready',['startready',['../class_network.html#aedfb6e9508d56719b48b8b685ba63c87',1,'Network']]],
+  ['startserver',['startServer',['../class_my_server.html#af68a1abad1a334959f01a8255646ab60',1,'MyServer']]],
+  ['startwindow',['StartWindow',['../class_start_window.html',1,'StartWindow'],['../class_start_window.html#a6e6151b226f69855e63950e8e927b26a',1,'StartWindow::StartWindow()'],['../class_connects.html#aa99a38044e6b07082c70ccd60fb166c7',1,'Connects::startwindow()']]],
+  ['steadyconnect',['SteadyConnect',['../class_start_window.html#a95f4967337402f3ae597f1dbbcfb2cfd',1,'StartWindow']]]
+];
