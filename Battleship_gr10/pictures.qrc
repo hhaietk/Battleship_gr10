@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>backpic.jpg</file>
+        <file>losepic.jpg</file>
+        <file>wasserpic.jpg</file>
+        <file>Winpic.jpg</file>
+        <file>Startpic.jpg</file>
+        <file>explos.jpeg</file>
+    </qresource>
+</RCC>
